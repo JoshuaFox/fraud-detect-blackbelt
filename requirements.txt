@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+jupyter
+boto3
+sagemaker
+scikit-learn
+imbalanced-learn
