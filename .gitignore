@@ -1,0 +1,15 @@
+.ipynb_checkpoints/**
+**.libsvm
+**/.DS_Store
+.idea/
+zd_export_big.json
+zd_export_small.json
+d_export_big.out.csv
+zddata.csv
+datab.csv
+zvenv/
+venv3/
+venv4/
+sentiment.csv
+
+fraud-detection.csv

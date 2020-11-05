@@ -6,3 +6,4 @@ boto3
 sagemaker
 scikit-learn
 imbalanced-learn
+category_encoders
