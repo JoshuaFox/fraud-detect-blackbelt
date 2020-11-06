@@ -7,3 +7,4 @@ sagemaker
 scikit-learn
 imbalanced-learn
 category_encoders
+seaborn
