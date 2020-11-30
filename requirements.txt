@@ -9,3 +9,4 @@ imbalanced-learn
 category_encoders
 seaborn
 xgboost
+pyarrow

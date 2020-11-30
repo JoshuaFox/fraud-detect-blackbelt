@@ -14,3 +14,6 @@ sentiment.csv
 
 fraud-detection.csv
 short-fraud-detection.csv
+fraud1000000rows.csv
+frauddetection.csv
+*.snappy
